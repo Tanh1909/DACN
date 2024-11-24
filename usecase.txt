@@ -27,3 +27,4 @@ Admin
  4. Quản lý đơn hàng (phân trang) (id, status, total_amout) -> phân tích thêm
  5. Quản trị Sản phẩm 
  6. Quản trị người dùng -> phân tích
+ 7. Quản trị danh mục
