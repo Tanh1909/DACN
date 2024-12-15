@@ -10,7 +10,7 @@ Product
  3. Chi tiết 1 sản phẩm -> 1 api hiện thị tất cả đánh giá theo sản phẩm
  4. Thêm vào giỏ hàng 
  5. Xóa khỏi giỏ hàng
- 6. Đặt mua từ trong giỏ hàng -> 7.thông tin thanh toán
+ 6. Đặt mua từ trong giỏ hàng (kiểm tra tồn kho) -> 7.thông tin thanh toán
 Order
  1. Theo dõi đơn hàng ( tất cả, chờ thanh toán,...) ->
  3. chờ giao hàng ( đã nhận được hàng) ->
@@ -24,7 +24,6 @@ Admin
  1. Tạo sản phẩm
  2. Thống kê số lượng bán ra (ngày, tháng, năm) nhập khoảng thời gian from to
  3. Import Excel 
- 4. Quản lý đơn hàng (phân trang) (id, status, total_amout) -> phân tích thêm
+ 4. Quản lý đơn hàng (phân trang) (id, status, total_amout) -> phân tích thêm()
  5. Quản trị Sản phẩm 
  6. Quản trị người dùng -> phân tích
- 7. Quản trị danh mục
